@@ -1,3 +1,3 @@
 #Результат работы программы
 
-(img)[screenshot_2.png]
+![alt text](Screenshot_2.png)
